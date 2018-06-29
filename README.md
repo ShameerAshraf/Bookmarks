@@ -1,4 +1,4 @@
-### Links
+###Links
 
 ### Learning
 - https://github.com/danthareja/contribute-to-open-source
@@ -11,7 +11,6 @@
 ### Companies
 - https://breakoutlist.com
 - https://blog.wealthfront.com/2018-wealthfront-career-launching-companies-list/
-- 
 
 ### Events
 - https://mlh.io
