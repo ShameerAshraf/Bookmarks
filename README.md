@@ -2,7 +2,7 @@
 
 ### Learning
 - https://github.com/danthareja/contribute-to-open-source
-- learn-anything.xyz
+- <learn-anything.xyz>
 
 ### Project-specific
 - https://nodeschool.io/#workshoppers
