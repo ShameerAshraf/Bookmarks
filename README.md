@@ -13,6 +13,7 @@
 - https://betterdev.link
 - http://pages.cs.wisc.edu/~remzi/OSTEP/
 - http://craftinginterpreters.com/contents.html
+- http://www.tldp.org/LDP/intro-linux/html/
 - https://intuitive-math.club/linear-algebra/eigenvalues
 - http://www.scholarpedia.org/article/Main_Page
 - https://hackernoon.com/i-wanted-to-learn-computer-science-so-i-created-my-own-degree-heres-my-curriculum-bad56f28c278
