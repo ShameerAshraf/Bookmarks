@@ -19,6 +19,9 @@
 - http://www.scholarpedia.org/article/Main_Page
 - https://hackernoon.com/i-wanted-to-learn-computer-science-so-i-created-my-own-degree-heres-my-curriculum-bad56f28c278
 - http://www.techiedelight.com
+- http://opendatastructures.org
+- https://xlinux.nist.gov/dads/
+- http://bigocheatsheet.com
 
 ### Tutorial for making tutorials
 - http://poignant.guide/book/
