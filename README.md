@@ -10,6 +10,11 @@
 - https://goalkicker.com/
 - https://hreftools.com/
 - https://www.joinvision.com/en/products/cvlizer/
+- https://github.com/danthareja/contribute-to-open-source
+- http://learn-anything.xyz
+- http://bigocheatsheet.com
+- http://opendatastructures.org
+- https://xlinux.nist.gov/dads/
 
 ### To-read-again-list
 - https://www.theverge.com/2018/1/11/16878670/meltdown-spectre-disclosure-embargo-google-microsoft-linux
@@ -20,22 +25,17 @@
 ### Useful waste of time
 - https://ardour.org/
 - https://www.blender.org/
+- http://www.scholarpedia.org/article/Main_Page
 
 ### Learning
-- https://github.com/danthareja/contribute-to-open-source
-- http://learn-anything.xyz
 - https://betterdev.link
 - http://pages.cs.wisc.edu/~remzi/OSTEP/
 - http://craftinginterpreters.com/contents.html
 - http://www.tldp.org/LDP/intro-linux/html/
 - http://www.linuxfromscratch.org
 - https://intuitive-math.club/linear-algebra/eigenvalues
-- http://www.scholarpedia.org/article/Main_Page
 - https://hackernoon.com/i-wanted-to-learn-computer-science-so-i-created-my-own-degree-heres-my-curriculum-bad56f28c278
 - http://www.techiedelight.com
-- http://opendatastructures.org
-- https://xlinux.nist.gov/dads/
-- http://bigocheatsheet.com
 
 ### Tutorial for making tutorials
 - http://poignant.guide/book/
