@@ -1,11 +1,25 @@
 ### Links
 
-### Self explanatory
+### Misc
 - https://www.reddit.com/r/cscareerquestions/comments/36kbe3/what_are_the_main_different_type_of_programming/
+- https://imgur.com/gallery/voutF
 
-### Sources for Open Source.. Source
+### Resources
 - https://www.firsttimersonly.com
 - https://up-for-grabs.net/#/
+- https://goalkicker.com/
+- https://hreftools.com/
+- https://www.joinvision.com/en/products/cvlizer/
+
+### To-read-again-list
+- https://www.theverge.com/2018/1/11/16878670/meltdown-spectre-disclosure-embargo-google-microsoft-linux
+- https://medium.com/@trekhleb/solid-principles-around-you-6db2f0e12139
+- https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
+- https://news.ycombinator.com/item?id=17269076
+
+### Useful waste of time
+- https://ardour.org/
+- https://www.blender.org/
 
 ### Learning
 - https://github.com/danthareja/contribute-to-open-source
@@ -33,8 +47,3 @@
 ### Companies
 - https://breakoutlist.com
 - https://blog.wealthfront.com/2018-wealthfront-career-launching-companies-list/
-
-### Events
-- https://mlh.io
-- https://www.hackevents.co
-- https://www.hackalist.org
