@@ -15,6 +15,7 @@
 - http://bigocheatsheet.com
 - http://opendatastructures.org
 - https://xlinux.nist.gov/dads/
+- https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
 
 ### To-read-again-list
 - https://www.theverge.com/2018/1/11/16878670/meltdown-spectre-disclosure-embargo-google-microsoft-linux
