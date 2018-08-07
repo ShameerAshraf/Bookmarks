@@ -3,6 +3,7 @@
 ### Misc
 - https://www.reddit.com/r/cscareerquestions/comments/36kbe3/what_are_the_main_different_type_of_programming/
 - https://imgur.com/gallery/voutF
+- https://idea-instructions.com
 
 ### Resources
 - https://www.firsttimersonly.com
@@ -26,7 +27,9 @@
 ### Useful waste of time
 - https://ardour.org/
 - https://www.blender.org/
+- https://medleytext.net
 - http://www.scholarpedia.org/article/Main_Page
+- https://www.youtube.com/watch?v=2qLuerYx2IA
 
 ### Learning
 - https://betterdev.link
