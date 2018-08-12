@@ -30,9 +30,12 @@
 - https://medleytext.net
 - http://www.scholarpedia.org/article/Main_Page
 - https://www.youtube.com/watch?v=2qLuerYx2IA
+- https://handmadehero.org
 
 ### Learning
 - https://betterdev.link
+- https://viewsourcecode.org/snaptoken/kilo/
+- https://cstack.github.io/db_tutorial/
 - http://pages.cs.wisc.edu/~remzi/OSTEP/
 - http://craftinginterpreters.com/contents.html
 - http://www.tldp.org/LDP/intro-linux/html/
