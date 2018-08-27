@@ -43,6 +43,7 @@
 - https://intuitive-math.club/linear-algebra/eigenvalues
 - https://hackernoon.com/i-wanted-to-learn-computer-science-so-i-created-my-own-degree-heres-my-curriculum-bad56f28c278
 - http://www.techiedelight.com
+- http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html
 
 ### Tutorial for making tutorials
 - http://poignant.guide/book/
