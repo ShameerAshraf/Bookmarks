@@ -4,6 +4,7 @@
 - https://www.reddit.com/r/cscareerquestions/comments/36kbe3/what_are_the_main_different_type_of_programming/
 - https://imgur.com/gallery/voutF
 - https://idea-instructions.com
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 ### Resources
 - https://www.firsttimersonly.com
