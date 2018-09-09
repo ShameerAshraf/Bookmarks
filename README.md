@@ -5,6 +5,7 @@
 - https://imgur.com/gallery/voutF
 - https://idea-instructions.com
 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- https://www.webdesignmuseum.org
 
 ### Resources
 - https://www.firsttimersonly.com
