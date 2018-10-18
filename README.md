@@ -25,6 +25,8 @@
 - https://medium.com/@trekhleb/solid-principles-around-you-6db2f0e12139
 - https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 - https://news.ycombinator.com/item?id=17269076
+- http://rudy.ca/doomsday.html
+- https://en.m.wikipedia.org/wiki/Zeller%27s_congruence
 
 ### Useful waste of time
 - https://ardour.org/
@@ -49,10 +51,6 @@
 
 ### Tutorial for making tutorials
 - http://poignant.guide/book/
-
-### Project-specific
-- https://nodeschool.io/#workshoppers
-- http://thenodeway.io
 
 ### Companies
 - https://breakoutlist.com
