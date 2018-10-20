@@ -7,14 +7,11 @@
 - https://www.webdesignmuseum.org
 - http://rudy.ca/doomsday.html
 - https://en.m.wikipedia.org/wiki/Zeller%27s_congruence
+- https://medleytext.net
 
 ### Resources
-- https://www.firsttimersonly.com
-- https://up-for-grabs.net/#/
 - https://goalkicker.com/
-- https://hreftools.com/
 - https://www.joinvision.com/en/products/cvlizer/
-- https://github.com/danthareja/contribute-to-open-source
 - http://learn-anything.xyz
 - http://bigocheatsheet.com
 - http://opendatastructures.org
@@ -27,11 +24,10 @@
 - https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 - https://news.ycombinator.com/item?id=17269076
 - http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
+- https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf
 
 ### Useful waste of time
-- https://ardour.org/
 - https://www.blender.org/
-- https://medleytext.net
 - http://www.scholarpedia.org/article/Main_Page
 - https://www.youtube.com/watch?v=2qLuerYx2IA
 - https://handmadehero.org
