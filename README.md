@@ -51,7 +51,3 @@
 
 ### Tutorial for making tutorials
 - http://poignant.guide/book/
-
-### Companies
-- https://breakoutlist.com
-- https://blog.wealthfront.com/2018-wealthfront-career-launching-companies-list/
