@@ -1,6 +1,7 @@
 ### Links
 
 ### Misc
+- https://vimeo.com/115154289
 - https://imgur.com/gallery/voutF
 - https://idea-instructions.com
 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
@@ -31,6 +32,7 @@
 - http://www.scholarpedia.org/article/Main_Page
 - https://www.youtube.com/watch?v=2qLuerYx2IA
 - https://handmadehero.org
+- http://www.folklore.org/
 
 ### Learning
 - https://betterdev.link
@@ -47,3 +49,4 @@
 
 ### Tutorial for making tutorials
 - http://poignant.guide/book/
+- https://www.redblobgames.com/pathfinding/a-star/implementation.html#cpp-dijkstra
