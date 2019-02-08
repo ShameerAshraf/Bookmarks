@@ -33,6 +33,9 @@
 - https://www.youtube.com/watch?v=2qLuerYx2IA
 - https://handmadehero.org
 - http://www.folklore.org/
+- https://news.ycombinator.com/item?id=18469649
+- https://news.ycombinator.com/item?id=13816881
+- https://news.ycombinator.com/item?id=19087418
 
 ### Learning
 - https://betterdev.link
