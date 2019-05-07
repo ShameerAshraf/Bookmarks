@@ -1,21 +1,28 @@
-### Links
+## Links
 
-### Misc
+### Video
 - https://vimeo.com/115154289
+- https://www.youtube.com/watch?v=2qLuerYx2IA
+
+### Applications
+- https://www.blender.org/
+- https://medleytext.net
+
+### Software/Misc
 - https://imgur.com/gallery/voutF
 - https://idea-instructions.com
 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 - https://www.webdesignmuseum.org
 - http://rudy.ca/doomsday.html
 - https://en.m.wikipedia.org/wiki/Zeller%27s_congruence
-- https://medleytext.net
+- http://bigocheatsheet.com
+- http://opendatastructures.org
+- https://xlinux.nist.gov/dads/
+- http://www.techiedelight.com
 
 ### Resources
 - https://goalkicker.com/
 - http://learn-anything.xyz
-- http://bigocheatsheet.com
-- http://opendatastructures.org
-- https://xlinux.nist.gov/dads/
 
 ### To-read-again-list
 - https://www.theverge.com/2018/1/11/16878670/meltdown-spectre-disclosure-embargo-google-microsoft-linux
@@ -26,12 +33,9 @@
 - https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf
 
 ### Useful waste of time
-- https://www.blender.org/
 - http://www.scholarpedia.org/article/Main_Page
-- https://www.youtube.com/watch?v=2qLuerYx2IA
 - http://www.folklore.org/
 - https://news.ycombinator.com/item?id=18469649
-- https://news.ycombinator.com/item?id=13816881
 - https://news.ycombinator.com/item?id=19087418
 
 ### Learning
@@ -43,9 +47,6 @@
 - http://www.tldp.org/LDP/intro-linux/html/
 - http://www.linuxfromscratch.org
 - https://intuitive-math.club/linear-algebra/eigenvalues
-- http://www.techiedelight.com
 - http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html
-
-### Tutorial for making tutorials
 - http://poignant.guide/book/
 - https://www.redblobgames.com/pathfinding/a-star/implementation.html#cpp-dijkstra
