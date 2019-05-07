@@ -39,14 +39,14 @@
 - [What books changed the way you think about almost everything?](https://news.ycombinator.com/item?id=19087418)
 
 ### Learning
-- https://betterdev.link
-- https://viewsourcecode.org/snaptoken/kilo/
-- https://cstack.github.io/db_tutorial/
-- http://pages.cs.wisc.edu/~remzi/OSTEP/
-- http://craftinginterpreters.com/contents.html
-- http://www.tldp.org/LDP/intro-linux/html/
-- http://www.linuxfromscratch.org
-- https://intuitive-math.club/linear-algebra/eigenvalues
-- http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html
-- http://poignant.guide/book/
-- https://www.redblobgames.com/pathfinding/a-star/implementation.html#cpp-dijkstra
+- [A better source for links](https://betterdev.link)
+- [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
+- [Build a simple database](https://cstack.github.io/db_tutorial/)
+- [Operating Systems - 3 Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
+- [Intro to Linux](http://www.tldp.org/LDP/intro-linux/html/)
+- [Linux from Scratch](http://www.linuxfromscratch.org)
+- [Eigenvalues explained](https://intuitive-math.club/linear-algebra/eigenvalues)
+- [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
+- [Why's Poignant Guide to Ruby](http://poignant.guide/book/)
+- [Implementing Pathfinding Algorithms](https://www.redblobgames.com/pathfinding/a-star/implementation.html#cpp-dijkstra)
