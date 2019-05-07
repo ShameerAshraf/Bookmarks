@@ -1,7 +1,7 @@
 ## Links
 
 ### Video
-- https://vimeo.com/115154289
+- [Interesting talk](https://vimeo.com/115154289)
 - https://www.youtube.com/watch?v=2qLuerYx2IA
 
 ### Applications
