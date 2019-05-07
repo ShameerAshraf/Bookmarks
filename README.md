@@ -12,12 +12,10 @@
 
 ### Resources
 - https://goalkicker.com/
-- https://www.joinvision.com/en/products/cvlizer/
 - http://learn-anything.xyz
 - http://bigocheatsheet.com
 - http://opendatastructures.org
 - https://xlinux.nist.gov/dads/
-- https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
 
 ### To-read-again-list
 - https://www.theverge.com/2018/1/11/16878670/meltdown-spectre-disclosure-embargo-google-microsoft-linux
@@ -31,7 +29,6 @@
 - https://www.blender.org/
 - http://www.scholarpedia.org/article/Main_Page
 - https://www.youtube.com/watch?v=2qLuerYx2IA
-- https://handmadehero.org
 - http://www.folklore.org/
 - https://news.ycombinator.com/item?id=18469649
 - https://news.ycombinator.com/item?id=13816881
@@ -46,7 +43,6 @@
 - http://www.tldp.org/LDP/intro-linux/html/
 - http://www.linuxfromscratch.org
 - https://intuitive-math.club/linear-algebra/eigenvalues
-- https://hackernoon.com/i-wanted-to-learn-computer-science-so-i-created-my-own-degree-heres-my-curriculum-bad56f28c278
 - http://www.techiedelight.com
 - http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html
 
