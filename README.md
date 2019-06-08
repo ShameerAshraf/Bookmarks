@@ -1,6 +1,6 @@
 ## Links
 
-### Video
+### Videos
 - [Humane Representation of Thought - Bret Victor](https://vimeo.com/115154289)
 - [Steve Jobs in 1985](https://www.youtube.com/watch?v=2qLuerYx2IA)
 
@@ -20,10 +20,6 @@
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 - [Algorithmic Programming Problems](http://www.techiedelight.com)
 
-### Resources
-- [Free Programming Tutorial Books](https://goalkicker.com/)
-- [Search Platform for learning resources](http://learn-anything.xyz)
-
 ### To-read-again-list
 - [H.264 is magic](https://sidbala.com/h-264-is-magic/)
 - [Famous laws of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
@@ -41,7 +37,6 @@
 - [What books changed the way you think about almost everything?](https://news.ycombinator.com/item?id=19087418)
 
 ### Learning
-- [A better source for links](https://betterdev.link)
 - [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
 - [Build a simple database](https://cstack.github.io/db_tutorial/)
 - [Operating Systems - 3 Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
