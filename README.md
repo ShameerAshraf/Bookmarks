@@ -26,6 +26,7 @@
 
 ### To-read-again-list
 - [H.264 is magic](https://sidbala.com/h-264-is-magic/)
+- [Famous laws of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [Keeping Spectre Secret - TheVerge](https://www.theverge.com/2018/1/11/16878670/meltdown-spectre-disclosure-embargo-google-microsoft-linux)
 - [SOLID Object-Oriented Programming Principles](https://medium.com/@trekhleb/solid-principles-around-you-6db2f0e12139)
 - [A Brief, Incomplete and Mostly Wrong History of Programming Languages - James Iry](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
