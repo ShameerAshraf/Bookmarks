@@ -1,11 +1,11 @@
 ## Links
+> Occasionally updated depending on piqued interest or piqued boredom
 
 ### Videos
 - [Humane Representation of Thought - Bret Victor](https://vimeo.com/115154289)
 - [Steve Jobs in 1985](https://www.youtube.com/watch?v=2qLuerYx2IA)
 
 ### Applications
-- [Blender - Free & Open Source 3D Creation](https://www.blender.org/)
 - [Medley - Note taking for programmers](https://medleytext.net)
 
 ### Software/Misc
@@ -37,6 +37,7 @@
 - [What books changed the way you think about almost everything?](https://news.ycombinator.com/item?id=19087418)
 
 ### Learning
+> One day...
 - [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
 - [Build a simple database](https://cstack.github.io/db_tutorial/)
 - [Operating Systems - 3 Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
